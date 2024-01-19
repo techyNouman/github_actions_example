@@ -12,11 +12,10 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Github Actions Example'),
+        title: const Text('Actions Example'),
       ),
       body: const Column(
         children: [
-
           Center(
             child: Text("This is is text"),
           )
