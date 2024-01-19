@@ -17,6 +17,9 @@ class _HomeState extends State<Home> {
       body: const Column(
         children: [
 
+          Center(
+            child: Text("This is is text"),
+          )
         ],
       ),
     );
